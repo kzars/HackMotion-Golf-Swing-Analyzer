@@ -71,7 +71,7 @@ exampleJSONS/             # Sample golf swing data
 1. **Clone the repository**
    ```bash
    git clone https://github.com/kzars/HackMotion-Golf-Swing-Analyzer.git
-   cd hackmotion
+   cd HackMotion-Golf-Swing-Analyzer
    ```
 
 2. **Install dependencies**
